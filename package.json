@@ -1,0 +1,19 @@
+{
+  "name": "academic-presentation-theme",
+  "version": "0.1.0",
+  "private": true,
+  "description": "PptxGenJS theme helpers for Japanese academic and lecture presentations",
+  "main": "academic_theme.js",
+  "type": "commonjs",
+  "scripts": {
+    "check": "node --check academic_theme.js && node --check examples/basic.js",
+    "example": "node examples/basic.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "jszip": "^3.10.1",
+    "pptxgenjs": "^4.0.1"
+  }
+}
