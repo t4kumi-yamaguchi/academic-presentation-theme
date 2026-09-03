@@ -1,6 +1,6 @@
 {
   "name": "academic-presentation-theme",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "private": true,
   "description": "PptxGenJS theme helpers for Japanese academic and lecture presentations",
   "main": "academic_theme.js",
